@@ -25,6 +25,6 @@ In those 2 months, I learned so much and fixed myself in different area's, that 
 ![Photo 2](https://github.com/AAstroPhysiCS/JMinecraft/blob/master/images/github/img2.PNG)
 
 ## Last thoughts
-I want to thank you myself for doing a project like this. I learned a lot :)
+I want to thank myself for doing a project like this. I learned a lot :)
 
 *A project by Okan Güclü*
